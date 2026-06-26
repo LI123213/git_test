@@ -1,0 +1,50 @@
+# Dependencies
+node_modules/
+vendor/
+.venv/
+venv/
+env/
+__pycache__/
+*.py[cod]
+
+# Build outputs
+dist/
+build/
+out/
+target/
+coverage/
+.next/
+.nuxt/
+.svelte-kit/
+
+# Logs and temp files
+*.log
+*.tmp
+*.temp
+tmp/
+temp/
+.cache/
+
+# Environment and secrets
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.pfx
+
+# Editor and OS files
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Package manager caches
+.npm/
+.yarn/
+.pnpm-store/
+
